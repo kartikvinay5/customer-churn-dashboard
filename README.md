@@ -42,3 +42,6 @@ The dataset used in this project is the Telco Customer Churn dataset sourced fro
 2. Install the required dependencies
    ```bash
    pip install -r requirements.txt
+   Run the Streamlit application
+
+streamlit run app.py
